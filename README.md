@@ -109,3 +109,10 @@ Provides an accessible tool for non-statisticians to perform rigorous A/B test a
 ### Trade-offs
 - **Pros**: Rapid development, easy deployment, user-friendly interface
 - **Cons**: Limited customization compared to full web frameworks, single-user session limitations
+
+### Preview:
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/a9c8fada-68b0-4033-9152-028ec98d926c" />
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/1dcb17c3-fb92-4cc2-a1a8-0108fded3513" />
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/79930229-aea0-49c8-b7af-409e3959d4cb" />
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/5873110e-50c4-4dfa-91d5-d96006160370" />
+<img width="1919" height="446" alt="image" src="https://github.com/user-attachments/assets/c07603ef-1dc4-4599-a178-5b5301596d4f" />
